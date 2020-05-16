@@ -14,19 +14,20 @@
 * [WEEK 6](#week6)
 
 ## WEEK1
+<h2>Python, Pandas, NumPy, Web Scraping</h2>
 <h3>DAY 1 - Python Basics</h3>
 
-   * [Python Basics 1 (week 1,2,3)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+   * [Coursera - IBM (week 1,2,3)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
 
 <h3>DAY 2 - Pandas Basics</h3>
 
-   * [Pandas Basics 1 (week 4)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+   * [Coursera - IBM (week 4)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
    * [Pandas Basics 2 (youtube)](https://www.youtube.com/watch?v=e60ItwlZTKM)
    
 <h3>DAY 3 - Numpy & Pandas</h3>
 
    * [Intro to NumPy (youtube)](https://www.youtube.com/watch?v=a8aDcLk4vRc)
-   * [NumPy & Pandas (refresher_git)](http://cs231n.github.io/python-numpy-tutorial/)
+   * [NumPy & Pandas (refresher_github)](http://cs231n.github.io/python-numpy-tutorial/)
    * [Advanced Pandas (youtube)](https://www.youtube.com/watch?v=e60ItwlZTKM)
    
 <h3>DAY 4 - Web Scraping</h3>
