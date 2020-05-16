@@ -16,12 +16,11 @@
 ## WEEK1
 <h3>DAY 1 - Python Basics</h3>
 
-   * [Python Basics 1 (week 1)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-   * [Python Basics 2 (week 2)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-   
+   * [Python Basics 1 (week 1,2,3)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+
 <h3>DAY 2 - Pandas Basics</h3>
 
-   * [Pandas Basics 1 (week 3)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+   * [Pandas Basics 1 (week 4)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
    * [Pandas Basics 2 (youtube)](https://www.youtube.com/watch?v=e60ItwlZTKM)
    
 <h3>DAY 3 - Numpy & Pandas</h3>
