@@ -6,7 +6,7 @@
 <hr noshade>
 
 ## COURSE STRUCTURE
-* [WEEK 1](#week1)
+* [WEEK 1  - Python, Pandas, NumPy, Web Scraping](#Week1)
 * [WEEK 2](#week2)
 * [WEEK 3](#week3)
 * [WEEK 4](#week4)
@@ -14,7 +14,6 @@
 * [WEEK 6](#week6)
 
 ## WEEK1
-<h2>Python, Pandas, NumPy, Web Scraping</h2>
 <h3>DAY 1 - Python Basics</h3>
 
    * [Coursera - IBM (week 1,2,3)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
