@@ -1,5 +1,3 @@
-<h1 align="center">Assignments</h1>
 <p align="center">
-    <img src="/images/first.JPG" alt="Master">
+    <img src="Certificates/Data Scientist/FINAL/Data Scientist Career Track.pdf" alt="Master">
 </p>
-
