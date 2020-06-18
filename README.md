@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="/images/first.JPG" alt="Master">
+    <img src="/images/first.JPG">
 </p>
