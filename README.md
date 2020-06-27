@@ -1,4 +1,3 @@
 <p align="center">
-    <img src="/images/first.JPG">
+    <img src="/image/banner.PNG">
 </p>
- 
